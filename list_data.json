@@ -1,22 +1,28 @@
 {
-	"movies": [
+	"restaurants": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Name": "Cheese Board Collective Pizzeria",
+			"Address": "1512 Shattuck Ave, Berkeley",
+			"Style": "Californian",
+			"Brief Summary": "creative pizzas with fresh, local ingredients"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Name": "Dol Ho Restaurant",
+			"Address": "808 Pacific Ave, San Francisco",
+			"Style": "Cantonese",
+			"Brief Summary": "unassuming space serving up classic dim sum fare"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Name": "Pineapple King Bakery",
+			"Address": "1915 Irving St, San Francisco",
+			"Style": "Hong Kong",
+			"Brief Summary": "worth a short wait - the pandan bun is my fave"
+		},
+		{
+			"Name": "H&J's Restaurant",
+			"Address": "10841 San Pablo Ave, El Cerrito",
+			"Style": "American",
+			"Brief Summary": "typical local breakfast nook in a region really lacking them"
 		}
 	]
 }
